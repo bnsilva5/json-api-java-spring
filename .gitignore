@@ -1,0 +1,5 @@
+.idea
+logs/
+
+inventory-service/logs/
+product-service/logs/
